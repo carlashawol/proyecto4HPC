@@ -5,14 +5,21 @@
 En la etapa de particionamiento los cálculos se descomponen en pequeñas tareas. Usualmente es independiente de la arquitectura o del modelo de programación. Un buen particionamiento divide tanto los cálculos asociados con el problema como los datos sobre los cuales opera.
 
 T1→ Definir y asignar valores a la Matriz 1 y Matriz 2.
+
 T2→ Comprobar que el número de Columnas de la matriz 1 sea igual al número de filas de la matriz 2, esto para que sea posible la multiplicación entre estas matrices.
+
 T3→ Definir la matriz resultado
+
 T4→ Se recorren las columnas de la matriz resultado, para obtener la posición en la columna.
 
 T5→ Se recorren las filas de la matriz resultado, para obtener la posición en la columna.
+
 T6→ Asignar la posición de la matriz a calcular
+
 T7→ Multiplicar los elementos de la fila correspondiente a la matriz 1 con los elementos correspondiente a la columna de la matriz 2.
+
 T8→ Sumar los elementos multiplicados.
+
 T9→ Asignar el resultado de la suma a la posición de la matriz resultado correspondiente, seleccionada en la tarea T2.
 (Este procedimiento se repite hasta completar la matriz resultado)
 
