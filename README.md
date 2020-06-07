@@ -28,10 +28,10 @@ significar el mismo nivel de satisfacción adquirir 10 unidades del producto 1 y
 y 3 unidades del producto 2.
 
 Para nuestro problema planteamos las siguientes matrices. La primera matriz tiene por columnas los diferentes productos que una
-determinada compañía desea adquirir; por columnas tiene las diferentes compras que desea realizar las cuales se supone aportan la misma
+determinada compañía desea adquirir; por filas tiene las diferentes compras que desea realizar las cuales se supone aportan la misma
 satisfacción para la empresa. La matriz contiene las cantidades de cada producto dependiendo de la compra.
 
-La segunda matriz tiene por columnas los diferentes proveedores con los cuales la compañía podría llevar a cabo la compra. Y por columnas
+La segunda matriz tiene por columnas los diferentes proveedores con los cuales la compañía podría llevar a cabo la compra. Y por filas
 contiene los productos que ofrece cada proveedor, los cuales coinciden con los que desea adquirir la compañía. La matriz contiene los
 precios de cada proveedor para cada producto.
 
