@@ -33,9 +33,12 @@ satisfacción para la empresa. La matriz contiene las cantidades de cada product
 La segunda matriz tiene por columnas los diferentes proveedores con los cuales la compañía podría llevar a cabo la compra. Y por columnas
 contiene los productos que ofrece cada proveedor, los cuales coinciden con los que desea adquirir la compañía. La matriz contiene los
 precios de cada proveedor para cada producto.
+
 ![alt text](https://github.com/carlashawol/proyecto4HPC/blob/master/Captura%20de%20pantalla%20(597).png)
 
 Con el resultado de la ejecución podemos deducir que sumando todos los campos de cada una de las columnas de la matriz resultante podemos obtener el total del costo de la compra de la compañía con cada uno de los proveedores. El proveedor a elegir será con el cual el costo total de la compra sea menor.
+
+Para la compilación de los códigos propuestos, utilizamos el clúster de INTEL que se nos proporcionó en el mooc de HPC, para ello abrimos el clúster mediante putty y utilizando la clave "colfax access key", después creamos una carpeta dentro del clúster, para almacenar lo códigos. Los compilamos con el siguiente comando: g++ -o proyecto proyecto.cc y los ejecutamos con el siguiente comandos ./proyecto.
 
 ![alt text](https://github.com/carlashawol/proyecto4HPC/blob/master/Captura%20de%20pantalla%20(598).png)
 
