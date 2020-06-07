@@ -49,6 +49,7 @@ De los datos capturados y cálculo de speedUp y eficiencia podemos concluir lo s
 Deducimos que el tiempo de ejecución disminuye al implementar paralelización en el código y al aumentar el número de procesadores.
 A su vez observamos un aumento en el speedUp cuando aplicamos paralelización y aumentamos el número de procesadores. Con dos procesadores tenemos que el speedUp es de 2.66, con 3 procesadores el speedUp aumenta a 4 y con 4 procesadores el speedUp aumenta a 12. Mientras mayor sea el speedUp, mayor será la eficiencia del algoritmo, con respecto al algoritmo secuencial.
 Observamos que al aplicar paralelización y aumentar el número de procesadores, aumenta a su vez la eficiencia, ya que se reduce la complejidad del algoritmo.
+
 **LINK EN GOOGLE DRIVE DE LA PROPUESTA INICIAL DEL PROYECTO**
 
 https://drive.google.com/drive/folders/1fhG0YEyctBDQ-OTz7C4FGoA09KnATYNR 
