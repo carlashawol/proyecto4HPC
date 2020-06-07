@@ -10,6 +10,7 @@
 Se plantea abordar el problema que enfrentan muchas compañías y empresas actualmente al momento de adquirir mercancías, 
 productos y servicios. La problemática aborda la gran cantidad de proveedores, marcas y empresas prestadoras de servicios que hay 
 disponibles en el mercado; todas ellas con amplia variedad de calidad, precio y disponibilidad.
+
 El problema que buscamos resolver es satisfacer la necesidad de estas mercancías, productos o servicios que requieren las empresas
 para su operación. Para ellos tenemos en cuenta que las empresas tienen una lista de productos a adquirir y buscan que estos se 
 puedan obtener en su totalidad por medio de una sola compañía; con el objetivo de reducir costos en impuestos, envíos, etc. 
