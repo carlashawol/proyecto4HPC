@@ -46,5 +46,5 @@ satisfacción para la empresa. La matriz contiene las cantidades de cada product
 La segunda matriz tiene por columnas los diferentes proveedores con los cuales la compañía podría llevar a cabo la compra. Y por columnas
 contiene los productos que ofrece cada proveedor, los cuales coinciden con los que desea adquirir la compañía. La matriz contiene los
 precios de cada proveedor para cada producto.
-
+![alt text](https://github.com/carlashawol/proyecto4HPC/blob/master/Captura%20de%20pantalla%20(598).png)
 ![alt text](https://github.com/carlashawol/proyecto4HPC/blob/master/Captura%20de%20pantalla%20(596).png)
