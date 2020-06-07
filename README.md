@@ -71,3 +71,12 @@ Carla Rendón:Declaro que el proyecto es original. Mi aporte dentro del desarrol
 --Aporte en la toma de datos contundentes y análisis de los mismos.
 
 --Aporte en el diseño de la métodología PCAM para el proyecto.
+
+**Referencias Consultadas**
+
+https://es.wikipedia.org/wiki/Curva_de_indiferencia
+
+https://es.wikipedia.org/wiki/Speedup#Usando_tiempos_de_ejecuci%C3%B3n
+
+http://mtovar.cs.buap.mx/doc/ProgConc/ProgramacionParalela.pdf
+
